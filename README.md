@@ -1,4 +1,4 @@
-# 18-21-get-put-delete-## Express Server with CRUD Operations
+# Express Server with CRUD Operations
 
 This is a simple Express server that demonstrates basic CRUD (Create, Read, Update, Delete) operations for managing user data.
 
